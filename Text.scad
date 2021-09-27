@@ -1,0 +1,1 @@
+linear_extrude(2) text("МАКС", font="Verdana:style=Bold" ,size=5);
